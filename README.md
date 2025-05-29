@@ -16,7 +16,7 @@ This dashboard serves as a tool for marketers, content creators, and analysts to
 
 ---
 
-### 📸 Instagram
+### 📸 Instagram Social Media Engagements
 
 ![Distribution of Target Variable](Instagram.png)
 
@@ -26,13 +26,13 @@ Tracks likes, comments, reach, saves, and follower changes. This section is espe
 
 ---
 
-### 🐦 Twitter (now X)
+### 🐦 Twitter (now X) Social Media Engagements
 
 ![Temporal Analysis](Twitter.png)
 
 Monitors tweets, retweets, likes, replies, and impressions. The dashboard visualizes tweet performance and follower trends, helping identify which tweets drive the most engagement and reach.
 
-### 📘 Facebook
+### 📘 Facebook Social Media Engagements
 
 ![Correlation Heatmap](facebook.png)
 
@@ -40,7 +40,7 @@ The dashboard tracks engagement metrics such as post likes, shares, comments, an
 
 ---
 
-### 🔗 LinkedIn
+### 🔗 LinkedIn Social Media Engagements
 
 ![Categorical Feature Breakdown](Linkedln.png)
 
