@@ -16,7 +16,7 @@ The histogram above provides a comprehensive view of how the target variable is 
 
 ### 📈 2. Temporal Trends and Patterns
 
-![Temporal Analysis](twitter.png)
+![Temporal Analysis](Twitter.png)
 
 This time-series line chart illustrates the temporal behavior of transaction frequency (or relevant metric) over the recorded period. Peaks and troughs indicate seasonal patterns and potential anomalies. This insight is especially useful when working with time-sensitive data like financial transactions or web activity.
 
@@ -32,7 +32,7 @@ The correlation heatmap visually presents the strength and direction of relation
 
 ### 🧱 4. Category-Wise Feature Summary
 
-![Categorical Feature Breakdown](linkedln.png)
+![Categorical Feature Breakdown](Linkedln.png)
 
 This bar chart dissects how different categorical groups (such as regions, user types, or product classes) compare across a selected numerical metric. It helps identify dominant contributors or underrepresented groups, guiding potential feature engineering efforts.
 
